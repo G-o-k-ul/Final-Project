@@ -42,6 +42,13 @@ textarea{
     left: 8rem;
 }
 
+.success-message {
+    display: block;
+    color: green;
+    margin-top: 10px;
+}
+  
+
 @media screen and (max-width: 480px) {
     .contact-form{
         padding: 0;

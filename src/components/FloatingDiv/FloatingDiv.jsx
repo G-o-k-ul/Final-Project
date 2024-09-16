@@ -9,7 +9,7 @@ const FloatinDiv = ({img, text1, text2}) => {
     <div className="floatingDiv">
       <img src={img} alt="" />
       <span>
-        {text1}
+        Software
         <br/>
         {text2}
       </span>

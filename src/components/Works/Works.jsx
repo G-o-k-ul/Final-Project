@@ -25,11 +25,13 @@ const Works = () => {
           </span>
           <span>Brands & Clients</span>
           <spane>
-            I have worked around various Front end projects
+            I have worked around various projects
             <br />
             In building the creative user interface UI and user experience UX that
             <br />
             Interacts my clients very Effectively
+            <br />
+            Experience in Oracle Apex Application & ERP products
            
           </spane>
           <Link to="contact" smooth={true} spy={true}>
